@@ -11,7 +11,7 @@
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<nav class="top" >
+<nav class="top">
   <div class="container wrapper">
     <!-- <div class="navbar-header">
       <a class="navbar-brand" href="#">WebSiteName</a>
