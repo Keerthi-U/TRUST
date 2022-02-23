@@ -82,21 +82,21 @@
 						<div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav ml-auto py-4 py-md-0">
 								<li class="nav-item">
-									<a class="nav-link " href="#">Features</a>
+									<a class="nav-link " href="#featuress">Features</a>
 							
 								</li>
                 	<li class="nav-item">
-									<a class="nav-link" href="#">About</a>
+									<a class="nav-link" href="#about">About</a>
 								</li>
 								<li class="nav-item">
 									<a class="nav-link" href="#">Portfolio</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" href="#">Service</a>
+									<a class="nav-link" href="#services">Service</a>
 								</li>
 		
 								<li class="nav-item">
-									<a class="nav-link" href="#">Testimonial</a>
+									<a class="nav-link" href="#testimonials">Testimonial</a>
 								</li>
 								<li class="nav-item ">
 									<a class="nav-link" href="#">Clients</a>
@@ -105,7 +105,7 @@
 									<a class="nav-link" href="#">Team</a>
 								</li>
                 <li class="nav-item">
-									<a class="nav-link" href="#">Contact</a>
+									<a class="nav-link" href="#contact">Contact</a>
 								</li>
 							</ul>
 						</div>
