@@ -197,12 +197,12 @@ h1, h2, h3, h4, h5, h6, .heading, .dark .heading, .header .site-title {
 
 
 /* //features */
-div#features {
+#features {
     background-color: #fafafa;
 }
-.features {
+/* .features {
     background-color: #e4d3d3;
-}
+} */
 .features .feature {
     margin: 0 0 40px;
     text-align: center;
