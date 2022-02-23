@@ -46,7 +46,7 @@ include('header.php');
 
 <!-- //features section -->
 
-<div id="featuress" class="section features">
+<div id="features" class="section features">
 	<div class="container">	
 		<div class=" section-heading features-heading">
 			<div id="features-subtitle" class="features-subtitle section-subtitle">show &amp; tell</div>
@@ -54,7 +54,7 @@ include('header.php');
 			</div>		
 		 <div class="row">
 			<div class="column col-sm-12  col-md-6 col-lg-3">
-				<div class="feature"data-animate-in="up">
+				<div class="feature" data-animate-in="up">
 	               <div class="feature-image primary-color">
 	            	<div class="feature-icon"><span style="font-family:'fontawesome'">&#xf109</span>
 				</div>			
@@ -66,7 +66,7 @@ include('header.php');
    </div>
 </div>
   <div class="column col-sm-12 col-lg-3 col-md-6">
-	<div class="feature"data-animate-in="up">
+	<div class="feature" data-animate-in="up">
 	   <div class="feature-image primary-color">
 		 <div class="feature-icon"><span style="font-family:'fontawesome'">&#xf0f4</span></div>			</div>
          	<h5 class="feature-title">Highly Versatile	</h5>
@@ -76,7 +76,7 @@ include('header.php');
         </div>
 </div>
 <div class="column col-sm-12 col-lg-3  col-md-6">
-  <div class="feature"data-animate-in="up">
+  <div class="feature" data-animate-in="up">
 	<div class="feature-image primary-color">
 		<div class="feature-icon"><span style="font-family:'fontawesome'">&#xf1b3</span></div>			</div>
 	<h5 class="feature-title">For Small Businesses	</h5>
@@ -132,7 +132,7 @@ include('header.php');
 	</div>
 </div>
  <div class="column col-lg-4 col-md-4">
-   <div class="about__content"data-animate-in="up">
+   <div class="about__content" data-animate-in="up">
 		<a href="https://www.demos.machothemes.com/antreas/our-beliefs/" title="Our Beliefs">
 		<img width="640" height="427" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-768x512.jpg" class="about__image wp-post-image" alt="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-768x512.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-300x200.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-1024x683.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-600x400.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" />		
 		</a>
@@ -156,7 +156,7 @@ include('header.php');
 	<div class="layer">
 	<div class="container">
 		<div class="tagline-body">
-			<div class="tagline-title" >Antreas is a theme with great potential</div>			
+			<div class="tagline-title">Antreas is a theme with great potential</div>			
       <div class="tagline-content">this tagline can be easily added anywhere on your site</div>
       			<a class="tagline-link button button-medium" href="#features">Learn More</a>
           		</div>
@@ -491,34 +491,7 @@ include('header.php');
 include('footer.php');
 ?>
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-=======
 	<script>
->>>>>>> 831e4ac072af6f2cbcb0492e5059a70349d4cd0f
 		$(function() {
   
   var html = $('html');
