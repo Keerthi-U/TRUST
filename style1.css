@@ -621,3 +621,6 @@ input[type=text]:focus,  textarea:focus{
   -webkit-box-shadow: 0 3px 6px rgb(0 0 0 / 8%) inset;
 }
  /* SERVICE SECTION CSS END */
+ p:nth-child(2) {
+  background: red;
+}

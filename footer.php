@@ -42,7 +42,7 @@
   <div id="subfooter" class="subfooter">
       <div class="container">
           <div class="row">
-            <div class="column col3">
+            <div class="column col-lg-4">
                <div class="subfooter-column">
                    <div class="text-col-1" id="t-title">
                         <div class="text-col">
@@ -60,7 +60,7 @@
 
 
             </div>
-            <div class="column col3">
+            <div class="column col-lg-5">
                <div class="subfooter-column">
                    <div class="text-col-1" id="t-title">
                      <div class="text-col2">Antreas is social</div> 
@@ -70,6 +70,7 @@
                         <a class="googleplusBtn smGlobalBtn" href="#" ></a>
                         <a class="linkedinBtn smGlobalBtn" href="#" ></a>
                         <a class="pinterestBtn smGlobalBtn" href="#" ></a>
+                     
                         <a class="tumblrBtn smGlobalBtn" href="#" ></a>
                         <a class="rssBtn smGlobalBtn" href="#" ></a>
                      </div>
@@ -82,8 +83,8 @@
                  </div>
               </div>
             </div>
-            <div class="column col3">
-            <div class="subfooter-column">
+            <div class="column col-lg-3">
+            <div class="subfooter-column col">
                    <div class="text-col-1" id="t-title">
                      <div class="text-col">Recent posts</div> 
                         <div class="img-post-div">
