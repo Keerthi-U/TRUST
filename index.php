@@ -330,6 +330,7 @@ include('header.php');
 
 
 <!-- CONTACT FORM SECTION START -->
+
 <div id="contact" class="section contact">
 	<div class="container">
 		<div class=" section-heading contact-heading">
@@ -484,31 +485,6 @@ include('header.php');
 include('footer.php');
 ?>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<br><br>
 	<script>
 		$(function() {
   
