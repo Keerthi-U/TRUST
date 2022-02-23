@@ -38,6 +38,7 @@
  
 
 <!-- footer-section start -->
+<footer>
   <div id="subfooter" class="subfooter">
       <div class="container">
           <div class="row">
@@ -119,9 +120,9 @@
 
   </div>
 
+  <div class="clear"></div>
 
-
-
+</footer>
 
 
 </body>

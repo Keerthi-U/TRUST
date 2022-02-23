@@ -336,6 +336,7 @@ include('header.php');
 
 
 <!-- CONTACT FORM SECTION START -->
+
 <div id="contact" class="section contact">
 	<div class="container">
 		<div class=" section-heading contact-heading">
@@ -490,6 +491,7 @@ include('header.php');
 include('footer.php');
 ?>
 
+<<<<<<< HEAD
 
 
 
@@ -514,6 +516,9 @@ include('footer.php');
 
 
 <script>
+=======
+	<script>
+>>>>>>> 831e4ac072af6f2cbcb0492e5059a70349d4cd0f
 		$(function() {
   
   var html = $('html');
