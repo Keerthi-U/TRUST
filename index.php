@@ -50,15 +50,15 @@ include('header.php');
 
 <!-- //features section -->
 
-<div id="featuress" class="section features">
+<div id="features" class="section features">
 	<div class="container">	
 		<div class=" section-heading features-heading">
 			<div id="features-subtitle" class="features-subtitle section-subtitle">show &amp; tell</div>
 			  <div class="section-title features-title heading">Why choose us</div>
 			</div>		
-		 <div class="row">
+		 <div class="row" id="feat">
 			<div class="column col-sm-12  col-md-6 col-lg-3">
-				<div class="feature"data-animate-in="up">
+				<div class="feature" data-animate-in="up">
 	               <div class="feature-image primary-color">
 	            	<div class="feature-icon"><span style="font-family:'fontawesome'">&#xf109</span>
 				</div>			
@@ -70,7 +70,7 @@ include('header.php');
    </div>
 </div>
   <div class="column col-sm-12 col-lg-3 col-md-6">
-	<div class="feature"data-animate-in="up">
+	<div class="feature" data-animate-in="up">
 	   <div class="feature-image primary-color">
 		 <div class="feature-icon"><span style="font-family:'fontawesome'">&#xf0f4</span></div>			</div>
          	<h5 class="feature-title">Highly Versatile	</h5>
@@ -80,7 +80,7 @@ include('header.php');
         </div>
 </div>
 <div class="column col-sm-12 col-lg-3  col-md-6">
-  <div class="feature"data-animate-in="up">
+  <div class="feature" data-animate-in="up">
 	<div class="feature-image primary-color">
 		<div class="feature-icon"><span style="font-family:'fontawesome'">&#xf1b3</span></div>			</div>
 	<h5 class="feature-title">For Small Businesses	</h5>
@@ -136,7 +136,7 @@ include('header.php');
 	</div>
 </div>
  <div class="column col-lg-4 col-md-4">
-   <div class="about__content"data-animate-in="up">
+   <div class="about__content" data-animate-in="up">
 		<a href="https://www.demos.machothemes.com/antreas/our-beliefs/" title="Our Beliefs">
 		<img width="640" height="427" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-768x512.jpg" class="about__image wp-post-image" alt="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-768x512.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-300x200.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-1024x683.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3-600x400.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/about-3.jpg 1600w" sizes="(max-width: 640px) 100vw, 640px" />		
 		</a>
@@ -160,8 +160,8 @@ include('header.php');
 	<div class="layer">
 	<div class="container">
 		<div class="tagline-body">
-			<div class="tagline-title" >Antreas is a theme with great potential</div>			
-      <div class="tagline-content">this tagline can be easily added anywhere on your site</div>
+			<div class="tagline-title"data-animate-in="fadeIn">Antreas is a theme with great potential</div>			
+      <div class="tagline-content" data-animate-in="fadeIn">this tagline can be easily added anywhere on your site</div>
       			<a class="tagline-link button button-medium" href="#features">Learn More</a>
           		</div>
 		</div>
@@ -183,17 +183,17 @@ include('header.php');
                 <div class="service-sectionn">
                 <div class="sec-service s-col">
                      <div class="service-col">
-                       <div class="service">
+                       <div class="service"data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
                              <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
                             </a>
                        </div>
                         <div class="service-body">
-                            <h4 class="service-title">
+                            <h4 class="service-title" data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">Premium Consulting</a>
                             </h4>
 	
-                             <div class="service-content">
+                             <div class="service-content"data-animate-in="fadeIn">
                                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
                             </div>
 		        	    </div>
@@ -202,7 +202,7 @@ include('header.php');
 
                   <div class="sec-service s-col">
                      <div class="service-col">
-                       <div class="service">
+                       <div class="service"data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
                              <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
                             </a>
@@ -212,7 +212,7 @@ include('header.php');
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">Web Development</a>
                             </h4>
 	
-                             <div class="service-content">
+                             <div class="service-content"data-animate-in="fadeIn">
                                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
                             </div>
 		        	    </div>
@@ -221,7 +221,7 @@ include('header.php');
 
                   <div class="sec-service s-col">
                      <div class="service-col">
-                       <div class="service">
+                       <div class="service"data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
                              <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
                             </a>
@@ -231,7 +231,7 @@ include('header.php');
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">WordPress Acceleration</a>
                             </h4>
 	
-                             <div class="service-content">
+                             <div class="service-content"data-animate-in="fadeIn">
                                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
                             </div>
 		        	    </div>
@@ -240,7 +240,7 @@ include('header.php');
 
                   <div class="sec-service s-col">
                      <div class="service-col">
-                       <div class="service">
+                       <div class="service" data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
                              <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
                             </a>
@@ -250,7 +250,7 @@ include('header.php');
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">Performance Auditing</a>
                             </h4>
 	
-                             <div class="service-content">
+                             <div class="service-content"data-animate-in="fadeIn">
                                 <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
                             </div>
 		        	    </div>
@@ -283,11 +283,11 @@ include('header.php');
 
             
              <div class="row">
-                  <div class="testinomal">
+                  <div class="testinomal"data-animate-in="up">
                        <div class="testi ti-col">
                            <div class="testimonial">
                                    <div class="testimonial-content">
-                                        <p>Antreas is a perfect match for us, as it is designed with no-frills mentality. 
+                                        <p data-animate-in="fadeIn">Antreas is a perfect match for us, as it is designed with no-frills mentality. 
                                          Because of the clean layout, our content will get all the attention,
                                          and it will be readable on any device.
                                         </p>
@@ -302,7 +302,7 @@ include('header.php');
                         <div class="testi ti-col">
                            <div class="testimonial">
                                <div class="testimonial-content">
-                                        <p>Antreas is a perfect match for us, as it is designed with no-frills mentality. 
+                                        <p data-animate-in="fadeIn">Antreas is a perfect match for us, as it is designed with no-frills mentality. 
                                          Because of the clean layout, our content will get all the attention,
                                          and it will be readable on any device.
                                         </p>
@@ -318,7 +318,7 @@ include('header.php');
                         <div class="testi ti-col">
                            <div class="testimonial">
                                    <div class="testimonial-content">
-                                        <p>Antreas is a perfect match for us, as it is designed with no-frills mentality. 
+                                        <p data-animate-in="fadeIn">Antreas is a perfect match for us, as it is designed with no-frills mentality. 
                                          Because of the clean layout, our content will get all the attention,
                                          and it will be readable on any device.
                                         </p>
@@ -349,7 +349,7 @@ include('header.php');
         </div>
 	    <div class="row">
           <div class="contact-form-sec">
-                   <div class="contact-details col2 contact__content">
+                   <div class="contact-details col2 contact__content" data-animate-in="up">
 				     <h5 class="contact-head">We don't byte</h5>
                         <p>Proin quis nisl et mauris dictum fringilla. Aliquam erat volutpat. Integer consequat sagittis tellus a dapibus. Donec porta libero vel sapien rutrum, vitae efficitur risus
                              vestibulum. Maecenas arcu ante, suscipit in fermentum sit amet, pretium eu turpis. Pellentesque iaculis cursus ipsum eget rutrum. Nullam blandit laoreet dui, sed dictum nisl consequat a. Quisque sagittis libero lorem, posuere commodo sem molestie sed. Donec ullamcorper feugiat finibus.</p>
@@ -359,7 +359,7 @@ include('header.php');
                         <p><i class="fa fa-envelope"></i>&nbsp;&nbsp;<strong>Email:</strong> <a href="mailto:contact@gmail.com">contact@gmail.com</a></p>
                      </div>  
            
-                    <div class="con-form col2 contact__form">
+                    <div class="con-form col2 contact__form"data-animate-in="up">
                         <form>
                             <div class="form-group">
                                 <label for="formGroupExampleInput" class="con-label">Your Name (required)</label>
@@ -390,7 +390,7 @@ include('header.php');
 <!-- BLOG SECTION START -->
 <div class="blog-section" id="blog-section">
     <div class="container">
-        <div class="section-heading blog-heading">
+        <div class="section-heading blog-heading"data-animate-in="up">
              <div id="blog-subtitle" class="blog-subtitle section-subtitle">our blog</div>
              <div class="section-title blog-title heading">Recent blog posts</div>
         </div>
@@ -400,8 +400,8 @@ include('header.php');
 		<div class="row">
             <div class="bloggg">
 
-                    <div class="blogg column-narrow col4">
-                     <div class="col-div">
+                    <div class="blogg column-narrow col4"data-animate-in="up">
+                     <div class="col-div" data-animate-in="up">
                         <img src="image/blog1.jpg" class="blog-img">
                      </div>
                      <div class="bolg-content">
@@ -427,8 +427,8 @@ include('header.php');
 
                       </div>
 
-                     <div class="blogg column-narrow col4">
-                     <div class="col-div">
+                     <div class="blogg column-narrow col4" data-animate-in="up">
+                     <div class="col-div" data-animate-in="up">
                         <img src="image/blog2.jpg" class="blog-img">
                      </div>
                      <div class="bolg-content">
@@ -455,7 +455,7 @@ include('header.php');
                      </div>
 
                     <div class="blogg column-narrow col4">
-                    <div class="col-div">
+                    <div class="col-div" data-animate-in="up">
                         <img src="image/blog3.jpg" class="blog-img">
                     </div>
                     <div class="bolg-content">

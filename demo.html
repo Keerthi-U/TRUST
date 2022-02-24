@@ -1,0 +1,27 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<style>
+    .sub-menu {
+    position: absolute;
+    z-index: 1000;
+    /* color: #fff;
+    right: 5px; */
+}
+
+.sub-menu li {
+    display: none;
+}
+</style>
+<div class="sub-menu" id="dropDownMenu">
+    <ul id="navbar">
+        <li> First</li>
+        <li>Second</li>
+        <li>Third</li>
+        <li>Fourth</li>
+        <li>Fifth</li>
+    </ul>
+</div>
+<script>
+    $("#dropDownMenu li").each(function(i) {
+    $(this).delay(100 * i).fadeIn(500);
+});
+</script>
