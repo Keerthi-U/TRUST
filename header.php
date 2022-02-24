@@ -26,25 +26,26 @@
   <div class="container">
     <div class="nav-top">
   <ul class="navbar-nav">
+  <li class="nav-items active">
+     <span> <a class="nav-link1" href="#">Home</a>  </span>
+    </li>
      <li class="nav-items active">
      <span> <a class="nav-link1" href="#">About</a>  </span>
     </li>
     <li class="nav-items active">
      <span> <a class="nav-link1" href="#">Blog</a>  </span>
     </li>
+    <!-- <li class="nav-items">
+    <span>  <a class="nav-link1" href="#">Services</a>  </span>
+    </li> -->
     <li class="nav-items">
-    <span>  <a class="nav-link1" href="#">Portfolio</a>  </span>
-    </li>
-    <li class="nav-items">
-    <span>  <a class="nav-link1" href="#">Contact</a>  </span>
+    <span>  <a class="nav-link1" href="#">Projects</a>  </span>
     </li>
 
     <li class="nav-items">
-    <span> <a class="nav-link1 " href="#">PageTemplate</a>  </span>
+    <span> <a class="nav-link1 " href="#">Contact</a>  </span>
     </li>
-    <li class="nav-items">
-    <span><a class="nav-link1 " href="#">Shop</a>  </span>
-    </li>
+  
   </ul>
   </div>
 <div class="navs">
