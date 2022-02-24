@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6, .heading, .dark .heading, .header .site-title {
 }
 .section-heading {
     position: relative;
-    margin: 0 0 60px;
+    margin: 0 0 30px;
     text-align: center;
     line-height: 1.2;
     font-size: 2.5em;
@@ -199,6 +199,7 @@ h1, h2, h3, h4, h5, h6, .heading, .dark .heading, .header .site-title {
 /* //features */
 #features {
     background-color: #fafafa;
+    padding: 58px;
 }
 /* .features {
     background-color: #e4d3d3;
@@ -277,7 +278,7 @@ h5 {
 }
 .section-heading {
     position: relative;
-    margin: 0 0 60px;
+    margin: 0 0 17px;
     text-align: center;
     line-height: 1.2;
     font-size: 2.5em;
@@ -843,6 +844,7 @@ body {
   }
   .contact {
       background-color: #fafafa;
+      padding: 70px;
   }
   .con-form:last-child {
       margin-right: 0;
@@ -954,7 +956,7 @@ body {
   div#testimonials {
   padding-bottom: 80px;
   
-  padding-top: 44px;
+  padding-top: 72px;
   
   }
   
@@ -965,6 +967,7 @@ body {
    .services {
     background-color: #fafafa;
     padding-bottom: 42px;
+    padding: 70px;
   }
    .sec-service{
     opacity: 1;

@@ -26,6 +26,9 @@
   <div class="container">
     <div class="nav-top">
   <ul class="navbar-nav">
+     <li class="nav-items active">
+     <span> <a class="nav-link1" href="#">About</a>  </span>
+    </li>
     <li class="nav-items active">
      <span> <a class="nav-link1" href="#">Blog</a>  </span>
     </li>
@@ -82,7 +85,7 @@
 						<div class="collapse navbar-collapse" id="navbarSupportedContent">
 							<ul class="navbar-nav ml-auto py-4 py-md-0">
 								<li class="nav-item">
-									<a class="nav-link " href="#featuress">Features</a>
+									<a class="nav-link " href="#features">Features</a>
 							
 								</li>
                 	<li class="nav-item">
