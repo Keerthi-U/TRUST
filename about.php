@@ -17,7 +17,7 @@ include("header.php");
 
 
 <!-- //about section -->
-<div id="about" class="section about">
+<div id="about" class="section about aboutus">
 	<div class="container">
 		<div class=" section-heading about-heading">
 			<div id="about-subtitle" class="about-subtitle section-subtitle">who we are</div>

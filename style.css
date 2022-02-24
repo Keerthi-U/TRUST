@@ -1127,15 +1127,14 @@ h1.pagetitle-title.heading {
  color:white;
  text-decoration:underline;
 }
-
  /* COMMON BACKGROUND ALL PAGE CSS  END */
 
- /* blog-page css */
+ /* / blog-page css / */
  .b-page-content {
     margin-bottom: 1.9em;
 }
 
-/* contact-page css */
+/* / contact-page css / */
 .c-page-content p {
     margin-bottom: 1.9em;
     padding-left: 17px;
@@ -1144,4 +1143,7 @@ h1.pagetitle-title.heading {
     font-family: 'Hind', sans-serif;
     font-weight: 400;
     color: #919191;
+}
+.aboutus {
+    padding-bottom: 115px!important;
 }
