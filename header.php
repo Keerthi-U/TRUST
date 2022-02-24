@@ -102,11 +102,11 @@
 								<li class="nav-item">
 									<a class="nav-link" href="#testimonials">Testimonial</a>
 								</li>
-								<li class="nav-item ">
+								<!-- <li class="nav-item ">
 									<a class="nav-link" href="#">Clients</a>
-								</li>
+								</li> -->
                 <li class="nav-item">
-									<a class="nav-link" href="#">Team</a>
+									<a class="nav-link" href="#team">Team</a>
 								</li>
                 <li class="nav-item">
 									<a class="nav-link" href="#contact">Contact</a>

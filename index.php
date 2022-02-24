@@ -337,7 +337,83 @@ include('header.php');
 
 <!-- TESTIMONIALS FORM SECTION END -->
 
-
+<!-- our Team -->
+      <div id="team" class="section team">
+		     <div class="container">
+			         <div class=" section-heading team-heading">
+                 <div id="team-subtitle" class="team-subtitle section-subtitle">we are dedicated</div>
+                   <div class="section-title team-title heading">Meet our team</div>
+                  </div>	
+            <div class="row">
+              <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
+                <div class="team-member">
+	                  <img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />	
+                       <div class="team-member-body">
+		                      <h3 class="team-member-title">Patricia Wright</h3>
+		                       <div class="team-member-description">Lead Designer</div>
+                            <div class="team-member-content">
+                                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p>
+                            </div>
+	           	<div class="team-member-links">
+                  <div class="clear">
+                  </div>
+                </div>			
+              </div>
+           </div>
+        </div>
+        <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
+           <div class="team-member">
+	            <img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+              	<div class="team-member-body">
+	                  	<h3 class="team-member-title">Mark Atkinson</h3>
+	                    	<div class="team-member-description">	Creative Director		</div>
+                            <div class="team-member-content">
+                              <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p>
+                          </div>
+	                     	<div class="team-member-links">
+                           <div class="clear">
+                             </div>
+                            </div>	
+                        	</div>
+                      </div>
+                </div>
+                <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
+                  <div class="team-member">
+                    	<img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+                       	<div class="team-member-body">
+		                          <h3 class="team-member-title">Maria Rodriguez</h3>
+	                            	<div class="team-member-description">	Chief Officer		</div>
+                                    <div class="team-member-content">
+                                      <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p>
+                                    </div>
+	                        	<div class="team-member-links">
+                              <div class="clear">
+                              </div>
+                          </div>		
+                        </div>
+                      </div>
+              </div>
+              <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
+                <div class="team-member">
+                	<img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
+                  	<div class="team-member-body">
+	                         	<h3 class="team-member-title">David Smith</h3>
+	                       	<div class="team-member-description">	CEO		</div>
+	                          	<div class="team-member-content">
+	                            		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.</p>
+	                           	</div>
+	                       	<div class="team-member-links">
+                             <div class="clear">
+                             </div>
+                            </div>	
+                          	</div>
+                         </div>
+                    </div>
+                  </div>		
+                </div>
+	          </div>
+	
+ <!-- ourteam end -->
 
 <!-- CONTACT FORM SECTION START -->
 
