@@ -27,13 +27,13 @@
     <div class="nav-top">
   <ul class="navbar-nav">
   <li class="nav-items active">
-     <span> <a class="nav-link1" href="#">Home</a>  </span>
+     <span> <a class="nav-link1" href="index.php">Home</a>  </span>
     </li>
      <li class="nav-items active">
-     <span> <a class="nav-link1" href="#">About</a>  </span>
+     <span> <a class="nav-link1" href="about.php">About</a>  </span>
     </li>
     <li class="nav-items active">
-     <span> <a class="nav-link1" href="#">Blog</a>  </span>
+     <span> <a class="nav-link1" href="blog.php">Blog</a>  </span>
     </li>
     <!-- <li class="nav-items">
     <span>  <a class="nav-link1" href="#">Services</a>  </span>
@@ -43,7 +43,7 @@
     </li>
 
     <li class="nav-items">
-    <span> <a class="nav-link1 " href="#">Contact</a>  </span>
+    <span> <a class="nav-link1 " href="contact.php">Contact</a>  </span>
     </li>
   
   </ul>

@@ -7,11 +7,12 @@ include('header.php');
 
 <!-- /BOLG PAGE START/ -->
 
+
 <div class="blog-section">
     <div class="blog-bg">
            <div class="blog-page-title">
            <h1 class="pagetitle-title heading">Blog</h1>
-           <div id="breadcrumb" class="breadcrumb"><a class="breadcrumb-link" href="https://www.demos.machothemes.com/antreas">Home</a><span class="breadcrumb-separator"></span><span class="breadcrumb-title">Blog</span>
+           <div id="breadcrumb" class="breadcrumb"><a class="breadcrumb-link" href="index.php">Home</a><span class="breadcrumb-separator"></span><span class="breadcrumb-title">Blog</span>
            </div>
            </div>
     </div>
@@ -24,14 +25,17 @@ include('header.php');
 <!-- BLOG SECTION START -->
 <div class="blog-section" id="blog-section">
     <div class="container">
-        <div class="section-heading blog-heading"data-animate-in="up">
+        <!-- <div class="section-heading blog-heading"data-animate-in="up">
              <div id="blog-subtitle" class="blog-subtitle section-subtitle">our blog</div>
              <div class="section-title blog-title heading">Recent blog posts</div>
-        </div>
-  
-
+        </div> -->
+     
+       
     <section id="content" class="content">
 		<div class="row">
+        <div class="b-page-content">
+		<p>Nullam facilisis diam in metus tincidunt faucibus. Donec ultrices urna felis, vel porttitor neque eleifend at. Maecenas aliquam tincidunt erat, non suscipit augue iaculis ac. Curabitur interdum tristique cursus. Maecenas sit amet nisl in ante lacinia pulvinar. Ut suscipit malesuada tincidunt. Maecenas auctor arcu ac urna luctus efficitur. Donec ut fringilla tellus.</p>
+		</div>
             <div class="bloggg">
 
                     <div class="blogg column-narrow col4"data-animate-in="up">
