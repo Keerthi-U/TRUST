@@ -1,6 +1,10 @@
 <?php 
 include('header.php');
 ?>
+
+<style>
+   
+</style>
 <!-- //slider section -->
 <div id="demo" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
