@@ -1147,3 +1147,58 @@ h1.pagetitle-title.heading {
 .aboutus {
     padding-bottom: 115px!important;
 }
+
+/* //our team section */
+.section.team {
+    background-color: #fafafa;
+    padding: 60px 0;
+}
+.section-subtitle {
+    font-size: 0.5em;
+    margin-bottom: 12px;
+    opacity: 0.5;
+    position: relative;
+    display: inline-block;
+}
+
+.team .team-member {
+    margin-bottom: 40px;
+}
+.team .team-member-image {
+    display: block;
+    border-radius: 50%;
+    width: 50%;
+    margin: 0 auto -15px;
+}
+.team .team-member-body {
+    background: #fff;
+    padding: 36px 26px 26px 26px;
+    box-shadow: 0 1px 2px rgb(0 0 0 / 7%);
+    transition: all 1s;
+}
+.team .team-member-title {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
+.team .team-member-description {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 0.65em;
+    margin: 0 0 15px;
+}
+.team .team-member-content {
+    margin: 15px 0 0;
+}
+.team .team-member-links {
+    margin: 10px 0 0;
+}
+.clear {
+    clear: both;
+    width: 100%;
+    height: 0;
+    margin: 0;
+    padding: 0;
+}
+.team-member:hover .team-member-body {
+    box-shadow: 0 1px 20px rgb(0 0 0 / 15%);
+}
