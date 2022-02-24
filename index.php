@@ -1,6 +1,10 @@
 <?php 
 include('header.php');
 ?>
+
+<style>
+   
+</style>
 <!-- //slider section -->
 <div id="demo" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -491,34 +495,7 @@ include('header.php');
 include('footer.php');
 ?>
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-=======
 	<script>
->>>>>>> 831e4ac072af6f2cbcb0492e5059a70349d4cd0f
 		$(function() {
   
   var html = $('html');
