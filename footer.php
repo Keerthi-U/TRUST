@@ -124,7 +124,7 @@
   <div class="clear"></div>
 
 </footer>
-
+<script src="h-script.js" ></script>
 
 </body>
 </html>
