@@ -39,7 +39,7 @@
     <span>  <a class="nav-link1" href="#">Services</a>  </span>
     </li> -->
     <li class="nav-items">
-    <span>  <a class="nav-link1" href="#">Projects</a>  </span>
+    <span>  <a class="nav-link1" href="project1.php">Projects</a>  </span>
     </li>
 
     <li class="nav-items">
