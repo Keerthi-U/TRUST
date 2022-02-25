@@ -413,6 +413,8 @@ include('header.php');
                 </div>
 	          </div>
 </div>
+</div>
+</div>
  <!-- ourteam end -->
 
 <!-- CONTACT FORM SECTION START -->
