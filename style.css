@@ -264,7 +264,13 @@ p.text-about {
 h5 {
     font-size: 1.2em;
 }
-
+.tagline-link.button.button-medium:hover {
+    background-color: black;
+}
+.slide-button--second.button:hover {
+    background-color: black;
+    color:#ffffff;
+}
 /* //about */
 .section.about{
     background: #fff;
@@ -813,7 +819,7 @@ body {
   
        /* CONTACT SECTION CSS START  */
      .contact {
-      background-color: #fafafa;
+      background-color: #ffffff;
       padding-top: 40px;
       padding-bottom: 50px;
      
