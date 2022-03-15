@@ -51,7 +51,7 @@
 <div class="navs">
 <ul class="navbar-nav">
     <li class="nav-item active">
-     <span> <a class="nav-link" href="#"><i class="fa fa-facebook-f"  style="font-size:16px;color: black;"></i></a>  </span>
+     <span> <a class="nav-link active " href="#"><i class="fa fa-facebook-f"  style="font-size:16px;color: black;"></i></a>  </span>
     </li>
     <li class="nav-item">
     <span>  <a class="nav-link" href="#"><i class="fa fa-twitter" style="font-size:16px;color: black;"></i></a>  </span>
