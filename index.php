@@ -182,8 +182,8 @@ Glider Technologies combines art and technology to deliver consistent branding a
                 <div class="section-title services-title heading">What we can do for you</div>
             </div>		
             <div class="row">
-                <div class="service-sectionn">
-                <div class="sec-service s-col">
+       
+                <div class="sec-service col-lg-4">
                      <div class="service-col">
                        <div class="service"data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
@@ -205,7 +205,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                      </div>
                   </div>
 
-                  <div class="sec-service s-col">
+                  <div class="sec-service col-lg-4">
                      <div class="service-col">
                        <div class="service"data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
@@ -229,7 +229,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                      </div>
                   </div>
 
-                  <div class="sec-service s-col">
+                  <div class="sec-service col-lg-4">
                      <div class="service-col">
                        <div class="service"data-animate-in="up">
                             <a href="">
@@ -251,7 +251,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                      </div>
                   </div>
 
-                  <div class="sec-service s-col">
+                  <div class="sec-service col-lg-4">
                      <div class="service-col">
                        <div class="service" data-animate-in="up">
                             <a href="">
@@ -273,7 +273,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                      </div>
                   </div>
 
-                  <div class="sec-service s-col">
+                  <div class="sec-service col-lg-4">
                      <div class="service-col">
                        <div class="service"data-animate-in="up">
                             <a href="">
@@ -294,7 +294,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
 		        	    </div>
                      </div>
                   </div>
-                  <div class="sec-service s-col">
+                  <div class="sec-service col-lg-4">
                      <div class="service-col">
                        <div class="service"data-animate-in="up">
                             <a href="">
@@ -314,7 +314,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                             </div>
 		        	    </div>
                      </div>
-                  </div>
+             
 
 
                 </div>
