@@ -6,6 +6,7 @@ include('header.php');
    
 </style>
 <!-- //slider section -->
+ 
 <div id="demo" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -340,9 +341,9 @@ Glider Technologies combines art and technology to deliver consistent branding a
              </div>
 
             
-             <div class="row"data-animate-in="up">
-                 
-                       <div class="testi col-lg-4 ">
+             <div class="row">
+                  <div class="testinomal"data-animate-in="up">
+                       <div class="testi ti-col">
                            <div class="testimonial">
                                    <div class="testimonial-content">
                                         <p data-animate-in="fadeIn">Antreas is a perfect match for us, as it is designed with no-frills mentality. 
@@ -357,7 +358,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                              </div>
                        
 
-                        <div class="testi col-lg-4">
+                        <div class="testi ti-col">
                            <div class="testimonial">
                                <div class="testimonial-content">
                                         <p data-animate-in="fadeIn">Antreas is a perfect match for us, as it is designed with no-frills mentality. 
@@ -373,7 +374,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                             </div>
                       
 
-                        <div class="testi col-lg-4">
+                        <div class="testi ti-col">
                            <div class="testimonial">
                                    <div class="testimonial-content">
                                         <p data-animate-in="fadeIn">Antreas is a perfect match for us, as it is designed with no-frills mentality. 
@@ -388,7 +389,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                                 </div>
                           </div>
 
-                
+                   </div>     
              </div>
        </div>
    </div>
@@ -484,19 +485,19 @@ Glider Technologies combines art and technology to deliver consistent branding a
                <div class="section-title contact-title heading">Contact us</div>
         </div>
 	    <div class="row">
-       
-                   <div class="col-lg-6 contact-details  contact__content" data-animate-in="up">
-				           <h5 class="contact-head">
-                      We’re Here To Help!</h5>
+          <div class="contact-form-sec">
+                   <div class="contact-details col2 contact__content" data-animate-in="up">
+				     <h5 class="contact-head">
+We’re Here To Help!</h5>
                         <p>Glider Technologies is designed to help your business safely transit into the digital age.</p>
                         <h5 class="contact-head">Send us a message and we will show you how.</h5>
                         <p><i class="fa fa-map-marker"></i>&nbsp;&nbsp;<strong>Address:</strong>D2, No 32,33, Adhisri Apartments, Kothari Road, Nungambakkam,
-                          Chennai – 600034</p>
+Chennai – 600034</p>
                         <p><i class="fa fa-phone"></i>&nbsp;&nbsp;<strong>Telephone:</strong> (+91) 908-739-4980</p>
                         <p><i class="fa fa-envelope"></i>&nbsp;&nbsp;<strong>Email:</strong> <a href="mailto:contact@gmail.com">famysys.com</a></p>
                      </div>  
            
-                    <div class="col-lg-6 con-form  contact__form"data-animate-in="up">
+                    <div class="con-form col2 contact__form"data-animate-in="up">
                         <form>
                             <div class="form-group">
                                 <label for="formGroupExampleInput" class="con-label">Full Name</label>
@@ -520,7 +521,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                         </div>
               </div>
 
-       
+         </div>
  </div>
 </div>
 <!-- CONTACT FORM SECTION END -->
@@ -539,9 +540,9 @@ Glider Technologies combines art and technology to deliver consistent branding a
 
     <section id="content" class="content">
 		<div class="row">
-           
+            <div class="bloggg">
 
-                    <div class="blogg column-narrow col-lg-4"data-animate-in="up">
+                    <div class="blogg column-narrow col4"data-animate-in="up">
                      <div class="col-div" data-animate-in="up">
                         <img src="image/blog1.jpg" class="blog-img">
                      </div>
@@ -568,7 +569,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
 
                       </div>
 
-                     <div class="blogg column-narrow col-lg-4" data-animate-in="up">
+                     <div class="blogg column-narrow col4" data-animate-in="up">
                      <div class="col-div" data-animate-in="up">
                         <img src="image/blog2.jpg" class="blog-img">
                      </div>
@@ -595,7 +596,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
 
                      </div>
 
-                    <div class="blogg column-narrow col-lg-4">
+                    <div class="blogg column-narrow col4">
                     <div class="col-div" data-animate-in="up">
                         <img src="image/blog3.jpg" class="blog-img">
                     </div>
@@ -623,7 +624,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                     </div>
            </div>
         </div>
-    
+     </div>
 </div>
 
 </div>
