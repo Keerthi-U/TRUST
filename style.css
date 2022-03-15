@@ -38,6 +38,9 @@ body {
     padding: 10px 12px;
     margin: 0;
 }
+#navbarSupportedContent ul li a:hover{
+    color:#00ABE3!important;
+}
 .collapse ul li a{
 /* font-family: 'Hind'; */
     font-weight: 400;
@@ -838,7 +841,7 @@ body {
   
        }
        .col2 {
-      width: 47.5%;
+      width: 50%;
   }
   .contact-head{
       font-weight: 400;
@@ -855,9 +858,13 @@ body {
   .con-form:last-child {
       margin-right: 0;
   }
-  .contact-form-sec {
+  /* .contact-form-sec {
       display: flex;
-  }
+  } */
+  .contact-form-sec {
+    display: flex;
+    width: 100%;
+}
   input.form-controll ,textarea.form-controll {
       font-family: inherit;
       border: 1px solid transparent;
@@ -940,6 +947,9 @@ body {
   margin: 0 0 5px;
   color: black;
   }
+  .con-form.col2.contact__form{
+    width: 50%;
+  }
   h1, h2, h3, h4, h5, h6, .heading, .dark .heading, .header .site-title {
   font-family: 'Hind';
   font-weight: 400;
@@ -980,12 +990,10 @@ body {
     transform: translateY(0px);
     transition: all 1s cubic-bezier(0.19, 1, 0.22, 1)
    }
-   .s-col{
-    width: 47.5%;
-   }
-  
-   .service-col{
-       
+   .s-col {
+    width: 30%;
+}
+.service-col {
     margin-bottom: 50px;
     position: relative;
     box-shadow: 0 1px 2px rgb(0 0 0 / 7%);
@@ -994,10 +1002,8 @@ body {
     background: #fff;
     transition: all 1s;
     display: flex;
-    flex-direction: row;
-  
-   }
-   
+    flex-direction: column!important;
+}
   
     .service-col .service-icon {
     font-family: 'fontawesome';
@@ -1013,19 +1019,21 @@ body {
    }
    .service-col .service-body {
     /* margin-left: 100px; */
-    padding: 26px 26px 26px 0;
-  }
+    padding: 26px 26px 26px 26px;
+}
   
   .service {
-    width: 40%;
+    width: 100%;
     display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .service-content {
-    margin: 0 0 10px;
-    font-size: 0.899em;
-  }
+    justify-content: flex-start;
+    padding: 18px 0px 0px 26px;
+}
+.service-content {
+    margin: 15px 0 10px;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
   h4.service-title {
     font-size: 1.3em;
     font-family: 'Hind';

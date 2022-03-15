@@ -121,7 +121,7 @@ include('header.php');
 	         	<h3 class="about__title">
 	               	<a href="https://www.demos.machothemes.com/antreas/our-story/" title="Our Story">Our Story</a>
 	           </h3>
-	   <p class="text-about">Donec eget maximus erat. Fusce tempor condimentum mauris, in consectetur ante tincidunt quis.</p>
+	   <p class="text-about">Glider Technologies is a professional web design and development company located in Chennai, Tamilnadu, India. Our award-winning web designers and developers specialize in custom business websites, WordPress, Web Development, E-commerce, Logo Design, Brand Identity, Graphic Design, Marketing Automation and UI/UX. </p>
 	</div>
 </div>
 <div class="column col-lg-4 col-md-4">
@@ -133,7 +133,9 @@ include('header.php');
 			Our Mission	
   	</a>
 		</h3>
-	<p class="text-about">Donec eget maximus erat. Fusce tempor condimentum mauris, in consectetur ante tincidunt quis.</p>
+	<p class="text-about"> We provide professional services for small buso large companies all over the world.Our streamlined development process enables us to deliver on time consistently.
+inesses t
+Glider Technologies combines art and technology to deliver consistent branding and solid e-business solutions that span the Internet,print,</p>
 	</div>
 </div>
  <div class="column col-lg-4 col-md-4">
@@ -146,7 +148,7 @@ include('header.php');
 			Our Beliefs	
 		</a>
 	</h3>
-	<p class="text-about">Donec eget maximus erat. Fusce tempor condimentum mauris, in consectetur ante tincidunt quis.</p>
+	<p class="text-about">broadcasting, and other media,taking advantage of the unique benefits of each.Experience the Glider Technologies difference; absolute competent quality, unmatched market prices, personalized approach, On time Delivery, all time availability to client to meetup and keep the project record to track and deliver updates on each phase.</p>
 	</div>
   </div>
   </div>		
@@ -186,35 +188,19 @@ include('header.php');
                      <div class="service-col">
                        <div class="service"data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
-                             <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
+                             <div class="primary-color service-icon">
+                               <!-- <i class="fa fa-globe" style="font-size:36px"></i> -->
+                               <img src="images/globe.png" class="primary-color">
+                              </div>
                             </a>
                        </div>
                         <div class="service-body">
                             <h4 class="service-title" data-animate-in="up">
-                            <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">Premium Consulting</a>
-                            </h4>
-	
-                             <div class="service-content"data-animate-in="fadeIn">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
-                            </div>
-		        	    </div>
-                     </div>
-                  </div>
-
-                  <div class="sec-service s-col">
-                     <div class="service-col">
-                       <div class="service"data-animate-in="up">
-                            <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
-                             <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
-                            </a>
-                       </div>
-                        <div class="service-body">
-                            <h4 class="service-title">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">Web Development</a>
                             </h4>
 	
                              <div class="service-content"data-animate-in="fadeIn">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                                <p>Develop high-quality, stunning, and amazing featured-rich websites, web pages and web application to give your brand a unique presence. Glider Technologies is here for you to fully create and also customize it in matter of hours.</p>
                             </div>
 		        	    </div>
                      </div>
@@ -224,16 +210,43 @@ include('header.php');
                      <div class="service-col">
                        <div class="service"data-animate-in="up">
                             <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
-                             <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
+                             <div class="primary-color service-icon">
+                               <!-- <span style="font-family:'fontawesome'"></span> -->
+                               <img src="images/digital.png" class="primary-color">
+                     
+                              </div>
                             </a>
                        </div>
                         <div class="service-body">
-                            <h4 class="service-title">
-                            <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">WordPress Acceleration</a>
+                            <h4 class="service-title"data-animate-in="up">
+                            <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">Digital Marketing
+</a>
                             </h4>
 	
                              <div class="service-content"data-animate-in="fadeIn">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                                <p>We are a team of specialist with great experience in Organic Search (SEO), Paid Search (PPC), Landing pages, Digital Advertising, Programmatic, Social Media Marketing, Retargeting, Analytics, Measurement and Reporting. </p>
+                            </div>
+		        	    </div>
+                     </div>
+                  </div>
+
+                  <div class="sec-service s-col">
+                     <div class="service-col">
+                       <div class="service"data-animate-in="up">
+                            <a href="">
+                             <div class="primary-color service-icon">
+                               <!-- <span style="font-family:'fontawesome'"></span> -->
+                               <img src="images/graphic.png" class="primary-color">
+                              </div>
+                            </a>
+                       </div>
+                        <div class="service-body">
+                            <h4 class="service-title"data-animate-in="up">
+                            <a href="">UI/UX Design</a>
+                            </h4>
+	
+                             <div class="service-content"data-animate-in="fadeIn">
+                                <p>Re-imagining and Re-defining user experiences across platforms and digital ecosystems. As a UI UX company rooted in human-centric methodologies and product design DNA, we are more prepared than ever to drive your transformation.</p>
                             </div>
 		        	    </div>
                      </div>
@@ -242,22 +255,67 @@ include('header.php');
                   <div class="sec-service s-col">
                      <div class="service-col">
                        <div class="service" data-animate-in="up">
-                            <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">
-                             <div class="primary-color service-icon"><span style="font-family:'fontawesome'"></span></div>
+                            <a href="">
+                             <div class="primary-color service-icon">
+                             <img src="images/testing.png" class="primary-color">
+                               <!-- <span style="font-family:'fontawesome'"></span> -->
+                              </div>
                             </a>
                        </div>
                         <div class="service-body">
-                            <h4 class="service-title">
-                            <a href="https://www.demos.machothemes.com/antreas/service/premium-consulting/">Performance Auditing</a>
+                            <h4 class="service-title"data-animate-in="up">
+                            <a href="">Software Testing</a>
                             </h4>
 	
                              <div class="service-content"data-animate-in="fadeIn">
-                                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                                <p>Make Software Testing a key part of your testing strategy. Desktop web and mobile app testing solutions suitable for your business type (both enterprise & small businesses). Embed testing at every stage to deliver fast, quality releases.</p>
                             </div>
 		        	    </div>
                      </div>
                   </div>
 
+                  <div class="sec-service s-col">
+                     <div class="service-col">
+                       <div class="service"data-animate-in="up">
+                            <a href="">
+                             <div class="primary-color service-icon">
+                               <!-- <span style="font-family:'fontawesome'"></span> -->
+                               <img src="images/email-marketing.png" class="primary-color">
+                              </div>
+                            </a>
+                       </div>
+                        <div class="service-body">
+                            <h4 class="service-title">
+                            <a href="">Marketing Automation</a>
+                            </h4>
+	
+                             <div class="service-content"data-animate-in="fadeIn">
+                                <p>Marketing automation helps you to identify potential customers, automating the process of nurturing those leads to sales-readiness. Our experts help you in combining data, design and delivery to change the way you propel your brand. </p>
+                            </div>
+		        	    </div>
+                     </div>
+                  </div>
+                  <div class="sec-service s-col">
+                     <div class="service-col">
+                       <div class="service"data-animate-in="up">
+                            <a href="">
+                             <div class="primary-color service-icon">
+                               <!-- <span style="font-family:'fontawesome'"></span> -->
+                               <img src="images/smart.png" class="primary-color">
+                              </div>
+                            </a>
+                       </div>
+                        <div class="service-body">
+                            <h4 class="service-title">
+                            <a href="">Mobility</a>
+                            </h4>
+	
+                             <div class="service-content"data-animate-in="fadeIn">
+                                <p>The ability to interact with customers, employees, assets, products, and other businesses in real time, anytime, and from any location a basic requisite. Mobility continues to be one of the most disruptive technologies in its impact and reach. </p>
+                            </div>
+		        	    </div>
+                     </div>
+                  </div>
 
 
                 </div>
@@ -347,7 +405,7 @@ include('header.php');
                   </div>	
             <div class="row">
               <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
-                <div class="team-member">
+                <div class="team-member" data-animate-in="up">
 	                  <img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-3.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />	
                        <div class="team-member-body">
 		                      <h3 class="team-member-title">Patricia Wright</h3>
@@ -363,7 +421,7 @@ include('header.php');
            </div>
         </div>
         <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
-           <div class="team-member">
+           <div class="team-member" data-animate-in="up">
 	            <img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-4.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
               	<div class="team-member-body">
 	                  	<h3 class="team-member-title">Mark Atkinson</h3>
@@ -379,7 +437,7 @@ include('header.php');
                       </div>
                 </div>
                 <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
-                  <div class="team-member">
+                  <div class="team-member"data-animate-in="up">
                     	<img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-2.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
                        	<div class="team-member-body">
 		                          <h3 class="team-member-title">Maria Rodriguez</h3>
@@ -395,7 +453,7 @@ include('header.php');
                       </div>
               </div>
               <div class="column column-narrow col-sm-12 col-md-6 col-lg-3">
-                <div class="team-member">
+                <div class="team-member" data-animate-in="up">
                 	<img width="300" height="300" src="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-300x300.jpg" class="team-member-image wp-post-image" alt="" title="" srcset="https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-300x300.jpg 300w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-150x150.jpg 150w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-768x768.jpg 768w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-1024x1024.jpg 1024w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1-600x600.jpg 600w, https://www.demos.machothemes.com/antreas/wp-content/uploads/sites/22/2018/10/team-member-1.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />
                   	<div class="team-member-body">
 	                         	<h3 class="team-member-title">David Smith</h3>
@@ -429,23 +487,28 @@ include('header.php');
 	    <div class="row">
           <div class="contact-form-sec">
                    <div class="contact-details col2 contact__content" data-animate-in="up">
-				     <h5 class="contact-head">We don't byte</h5>
-                        <p>Proin quis nisl et mauris dictum fringilla. Aliquam erat volutpat. Integer consequat sagittis tellus a dapibus. Donec porta libero vel sapien rutrum, vitae efficitur risus
-                             vestibulum. Maecenas arcu ante, suscipit in fermentum sit amet, pretium eu turpis. Pellentesque iaculis cursus ipsum eget rutrum. Nullam blandit laoreet dui, sed dictum nisl consequat a. Quisque sagittis libero lorem, posuere commodo sem molestie sed. Donec ullamcorper feugiat finibus.</p>
-                        <h5 class="contact-head">Contact Info</h5>
-                        <p><i class="fa fa-map-marker"></i>&nbsp;&nbsp;<strong>Adress:</strong> 75 Ninth Avenue New York, NY 10011</p>
-                        <p><i class="fa fa-phone"></i>&nbsp;&nbsp;<strong>Telephone:</strong> +1 212-565-0000</p>
-                        <p><i class="fa fa-envelope"></i>&nbsp;&nbsp;<strong>Email:</strong> <a href="mailto:contact@gmail.com">contact@gmail.com</a></p>
+				     <h5 class="contact-head">
+We’re Here To Help!</h5>
+                        <p>Glider Technologies is designed to help your business safely transit into the digital age.</p>
+                        <h5 class="contact-head">Send us a message and we will show you how.</h5>
+                        <p><i class="fa fa-map-marker"></i>&nbsp;&nbsp;<strong>Address:</strong>D2, No 32,33, Adhisri Apartments, Kothari Road, Nungambakkam,
+Chennai – 600034</p>
+                        <p><i class="fa fa-phone"></i>&nbsp;&nbsp;<strong>Telephone:</strong> (+91) 908-739-4980</p>
+                        <p><i class="fa fa-envelope"></i>&nbsp;&nbsp;<strong>Email:</strong> <a href="mailto:contact@gmail.com">famysys.com</a></p>
                      </div>  
            
                     <div class="con-form col2 contact__form"data-animate-in="up">
                         <form>
                             <div class="form-group">
-                                <label for="formGroupExampleInput" class="con-label">Your Name (required)</label>
+                                <label for="formGroupExampleInput" class="con-label">Full Name</label>
                                 <input type="text" class="form-controll" id="formGroupExampleInput" >
                             </div>
                             <div class="form-group">
-                                <label for="formGroupExampleInput2"  class="con-label"> Your Email (required)</label>
+                                <label for="formGroupExampleInput2"  class="con-label">Company</label>
+                                <input type="text" class="form-controll" id="formGroupExampleInput2" >
+                            </div>
+                            <div class="form-group">
+                                <label for="formGroupExampleInput2"  class="con-label">Email  Address</label>
                                 <input type="text" class="form-controll" id="formGroupExampleInput2" >
                             </div>
                             <div class="form-group">
