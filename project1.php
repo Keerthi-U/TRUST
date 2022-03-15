@@ -95,7 +95,7 @@ p.card-text {
         </div>
     <div class="row">
    
-        <div class="col-lg-4">
+        <div class="col-lg-4 mt-5">
           <div class="card " >
             <img class="card-img" src="image/pro1.jpg" alt="Card image" style="width:100%">
           <div class="card-body c-body">
@@ -108,7 +108,7 @@ p.card-text {
          </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-lg-4  mt-5">
           <div class="card mbr-text" >
             <img class="card-img" src="image/07.jpg" alt="Card image" style="width:100%">
           <div class="card-body  c-body">
@@ -119,7 +119,7 @@ p.card-text {
          </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-lg-4  mt-5">
           <div class="card mbr-text ">
             <img class="card-img" src="image/04.jpg" alt="Card image" style="width:100%">
           <div class="card-body c-body">
@@ -129,6 +129,40 @@ p.card-text {
          <a href="#" class=" red-more">Read More</a>
          </div>
         </div>
+        
+        <div class="col-lg-4  mt-5">
+          <div class="card mbr-text" >
+            <img class="card-img" src="image/07.jpg" alt="Card image" style="width:100%">
+          <div class="card-body  c-body">
+             <h4 class="card-title">Modern Technologies</h4>
+              <p class="card-text">It can be practical to concentrate your innovation initiatives on places where you have recurring challenges.</p>
+         </div>
+         <a href="#" class=" red-more">Read More</a>
+         </div>
+        </div>
+
+        <div class="col-lg-4  mt-5">
+          <div class="card mbr-text ">
+            <img class="card-img" src="image/04.jpg" alt="Card image" style="width:100%">
+          <div class="card-body c-body">
+             <h4 class="card-title">Multifunctional</h4>
+              <p class="card-text">The exploitation is important to a service enhances its treatments.</p>
+         </div>
+         <a href="#" class=" red-more">Read More</a>
+         </div>
+        </div>
+
+        <div class="col-lg-4  mt-5">
+          <div class="card mbr-text ">
+            <img class="card-img" src="image/04.jpg" alt="Card image" style="width:100%">
+          <div class="card-body c-body">
+             <h4 class="card-title">Multifunctional</h4>
+              <p class="card-text">The exploitation is important to a service enhances its treatments.</p>
+         </div>
+         <a href="#" class=" red-more">Read More</a>
+         </div>
+        </div>
+   
    
     </div>
     

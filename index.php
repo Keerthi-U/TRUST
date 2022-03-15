@@ -6,6 +6,7 @@ include('header.php');
    
 </style>
 <!-- //slider section -->
+ 
 <div id="demo" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
