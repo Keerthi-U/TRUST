@@ -36,9 +36,9 @@ include('header.php');
         <div class="b-page-content">
 		<p>Nullam facilisis diam in metus tincidunt faucibus. Donec ultrices urna felis, vel porttitor neque eleifend at. Maecenas aliquam tincidunt erat, non suscipit augue iaculis ac. Curabitur interdum tristique cursus. Maecenas sit amet nisl in ante lacinia pulvinar. Ut suscipit malesuada tincidunt. Maecenas auctor arcu ac urna luctus efficitur. Donec ut fringilla tellus.</p>
 		</div>
-            <div class="bloggg">
+          
 
-                    <div class="blogg column-narrow col4"data-animate-in="up">
+                    <div class="blogg column-narrow col-lg-4">
                      <div class="col-div" data-animate-in="up">
                         <img src="image/blog1.jpg" class="blog-img">
                      </div>
@@ -65,7 +65,7 @@ include('header.php');
 
                       </div>
 
-                     <div class="blogg column-narrow col4" data-animate-in="up">
+                     <div class="blogg column-narrow col-lg-4" data-animate-in="up">
                      <div class="col-div" data-animate-in="up">
                         <img src="image/blog2.jpg" class="blog-img">
                      </div>
@@ -92,7 +92,7 @@ include('header.php');
 
                      </div>
 
-                    <div class="blogg column-narrow col4">
+                    <div class="blogg column-narrow col-lg-4">
                     <div class="col-div" data-animate-in="up">
                         <img src="image/blog3.jpg" class="blog-img">
                     </div>
@@ -118,7 +118,7 @@ include('header.php');
                     <div class="post-comments"><a href="https://www.demos.machothemes.com/antreas/chinas-last-wild-bears/#comments">0</a></div>
 
                     </div>
-           </div>
+          
         </div>
      </div>
 </div>
