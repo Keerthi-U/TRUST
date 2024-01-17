@@ -500,7 +500,7 @@ Glider Technologies combines art and technology to deliver consistent branding a
                         <form>
                             <div class="form-group">
                                 <label for="formGroupExampleInput" class="con-label">Full Name</label>
-                                <input type="text" class="form-controll" id="formGroupExampleInput" >
+                                <input type="text" class="form-controll"  id="formGroupExampleInput" >
                             </div>
                             <div class="form-group">
                                 <label for="formGroupExampleInput2"  class="con-label">Company</label>
@@ -515,9 +515,10 @@ Glider Technologies combines art and technology to deliver consistent branding a
                                 <textarea class="form-controll" id="formGroupExampleInput2"  rows="8"></textarea>
                             </div>
                             <input type="submit" value="Send message" class="cn-submit">
-                            </form>
+                            
            
                         </div>
+                        </form>
               </div>
 
        
@@ -618,7 +619,8 @@ Glider Technologies combines art and technology to deliver consistent branding a
                     </div>
                     
                     <button id="read-more"> Read-More</button>
-                    <div class="post-comments"><a href="https://www.demos.machothemes.com/antreas/chinas-last-wild-bears/#comments">0</a></div>
+                    <div class="post-comments">
+                      <a href="https://www.demos.machothemes.com/antreas/chinas-last-wild-bears/#comments">0</a></div>
 
                     </div>
            </div>

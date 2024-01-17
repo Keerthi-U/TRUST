@@ -35,16 +35,7 @@ include ('header.php');
 	    <div class="row">
        
            <div class=" offset-lg-1 col-lg-10  contact-form-sec">
-                   <!-- <div class="contact-details col2 contact__content" data-animate-in="up">
-				     <h5 class="contact-head">We don't byte</h5>
-                        <p>Proin quis nisl et mauris dictum fringilla. Aliquam erat volutpat. Integer consequat sagittis tellus a dapibus. Donec porta libero vel sapien rutrum, vitae efficitur risus
-                             vestibulum. Maecenas arcu ante, suscipit in fermentum sit amet, pretium eu turpis. Pellentesque iaculis cursus ipsum eget rutrum. Nullam blandit laoreet dui, sed dictum nisl consequat a. Quisque sagittis libero lorem, posuere commodo sem molestie sed. Donec ullamcorper feugiat finibus.</p>
-                        <h5 class="contact-head">Contact Info</h5>
-                        <p><i class="fa fa-map-marker"></i>&nbsp;&nbsp;<strong>Adress:</strong> 75 Ninth Avenue New York, NY 10011</p>
-                        <p><i class="fa fa-phone"></i>&nbsp;&nbsp;<strong>Telephone:</strong> +1 212-565-0000</p>
-                        <p><i class="fa fa-envelope"></i>&nbsp;&nbsp;<strong>Email:</strong> <a href="mailto:contact@gmail.com">contact@gmail.com</a></p>
-                     </div>   -->
-           
+            
                     <div class="col-lg-12 con-form  contact__form"data-animate-in="up">
                         <form>
                             <div class="form-group ">
